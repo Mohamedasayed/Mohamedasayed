@@ -1,8 +1,12 @@
 # Hello! 🌟
 
 My name is Mohamed Sayed. I am a freelance Python AI and Machine Learning Engineer living near Cairo, Egypt. 🏜️
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Artificial+Intelligence+Engineer;Always+learning+new+things&color=00FF00)](https://git.io/typing-svg)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Artificial%20intelligence%20is%20the%20new%20electricity.%20&author=Andrew%20Ng&type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?quote=Artificial%20intelligence%20is%20the%20new%20electricity.%20&author=Andrew%20Ng&type=horizontal&theme=monokai&quoteColor=00FF00)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
 
 ## 🛠  Technologies and tools
 
